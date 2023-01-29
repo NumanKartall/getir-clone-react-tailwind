@@ -1,1 +1,1 @@
-# getir-clone-react-tailwind
+## getir-clone
