@@ -1,1 +1,1 @@
-## Getir Single Page Clone (React Framework  TailwindCSS)
+## Getir Single Page Clone (React - TailwindCSS)
